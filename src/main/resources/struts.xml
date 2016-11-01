@@ -13,7 +13,7 @@
         <default-action-ref name="index"/>
 
         <action name="index" class="com.francky.angular.UI_Router.actions.IndexAction" method="index" >
-            <result name="success">/index.jsp</result>
+            <result name="success">vues/acceuil.html</result>
         </action>
 
     </package>
